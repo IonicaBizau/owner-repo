@@ -1,14 +1,18 @@
+
 # owner-repo [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/owner-repo.svg)](https://www.npmjs.com/package/owner-repo) [![Downloads](https://img.shields.io/npm/dt/owner-repo.svg)](https://www.npmjs.com/package/owner-repo) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Parse the the owner/repo snippets.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save owner-repo
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const ownerRepo = require("owner-repo");
@@ -26,7 +30,8 @@ console.log(ownerRepo("IonicaBizau"));
 //   full_name: 'IonicaBizau' }
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `ownerRepo(input)`
 Parses the input string as `owner[/repo]`.
@@ -41,13 +46,18 @@ Parses the input string as `owner[/repo]`.
  - `full_name` (String): The full name (in the `owner[/repo]` format).
  - `stringify` (Function): Stringifies the parsed object.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+
+ - [`gh-repos`](https://github.com/IonicaBizau/gh-repos#readme)—Get one or all the owner repositories from GitHub.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
