@@ -1,6 +1,6 @@
 {
   "name": "owner-repo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parse the the owner/repo snippets.",
   "main": "lib/index.js",
   "directories": {
@@ -38,6 +38,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
