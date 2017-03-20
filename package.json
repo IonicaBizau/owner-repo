@@ -1,6 +1,6 @@
 {
   "name": "owner-repo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Parse the the owner/repo snippets.",
   "main": "lib/index.js",
   "directories": {
@@ -20,7 +20,7 @@
     "owner",
     "repository"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -34,12 +34,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
