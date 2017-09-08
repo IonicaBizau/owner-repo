@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Parses the input string as `owner[/repo]`.
 
 #### Params
+
 - **String** `input`: The input string in the `owner[/repo]` format.
 
 #### Return
