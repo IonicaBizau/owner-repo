@@ -49,11 +49,14 @@
 
 ## :cloud: Installation
 
-```sh
+
 # Using npm
+```
 npm install --save owner-repo
+```
 
 # Using yarn
+```
 yarn add owner-repo
 ```
 
@@ -158,9 +161,11 @@ However, if you get some profit from this or just want to encourage me to contin
  - [![Buy me a book][badge_amazon]][amazon]—I love books! I will remember you after years if you buy me one. :grin: :book:
  - [![PayPal][badge_paypal]][paypal-donations]—You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
  - [![Support me on Patreon][badge_patreon]][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
- - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below): `1P9BRsmazNQcuyTxEqveUsnf5CERdq35V6`
-
-    ![](https://i.imgur.com/z6OQI95.png)
+ - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below):- 
+ ```
+ 1P9BRsmazNQcuyTxEqveUsnf5CERdq35V6
+ ```
+   ![](https://i.imgur.com/z6OQI95.png)
 
 
 Thanks! :heart:
